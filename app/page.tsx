@@ -4,7 +4,7 @@ export default function Home() {
       {/* Hero */}
       <section className="px-6 py-24 md:py-32 max-w-3xl mx-auto text-center">
         <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-foreground">
-          You&rsquo;re live on Pantheon.
+          I&rsquo;m live on Pantheon! From a fork! Part Two!
         </h1>
         <p className="mt-6 text-lg text-muted leading-relaxed max-w-2xl mx-auto">
           This page is being served by your new Next.js site — built from the{" "}
